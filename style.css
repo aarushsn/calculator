@@ -1,0 +1,29 @@
+h1{
+    font-family: 'Silkscreen', cursive;
+    color: #4CC9F0;
+    font-size: 45px;
+}
+
+button{
+    font-family: 'Silkscreen', cursive;
+    height: 50px;
+    width: 50px;
+    background-color: #4CC9F0;
+    font-size: 20px;
+}
+
+#results{
+    font-family: 'Silkscreen', cursive;
+    height: 40px;
+    width: 300px;
+    font-size: 20px;
+}
+
+body{
+    background-color: #0A2472;
+}
+
+
+.symbols{
+    font-family: 'Acme', sans-serif;
+}
